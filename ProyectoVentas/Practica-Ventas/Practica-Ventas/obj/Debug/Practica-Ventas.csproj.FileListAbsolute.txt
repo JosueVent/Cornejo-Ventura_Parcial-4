@@ -1,0 +1,11 @@
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\bin\Debug\Practica-Ventas.exe.config
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\bin\Debug\Practica-Ventas.exe
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\bin\Debug\Practica-Ventas.pdb
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.csproj.AssemblyReference.cache
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.csproj.SuggestedBindingRedirects.cache
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica_Ventas.Form1.resources
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica_Ventas.Properties.Resources.resources
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.csproj.GenerateResource.cache
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.csproj.CoreCompileInputs.cache
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.exe
+C:\ProyectoVentas\Practica-Ventas\Practica-Ventas\obj\Debug\Practica-Ventas.pdb
